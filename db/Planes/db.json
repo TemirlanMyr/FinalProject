@@ -1,0 +1,34 @@
+{
+  "Planes": [
+    {
+      "id": 1,
+      "image": "https://lemonbin.com/wp-content/uploads/2020/06/turboprop-june112020.jpg",
+      "model": "Turboprop Aircraft",
+      "price": "$272200"
+    },
+    {
+      "id": 2,
+      "image": "https://lemonbin.com/wp-content/uploads/2020/06/piston-june112020.jpg",
+      "model": "Piston Aircraft",
+      "price": "$264700"
+    },
+    {
+      "id": 3,
+      "image": "https://lemonbin.com/wp-content/uploads/2020/06/jet-june112020.jpg",
+      "model": "Jets",
+      "price": "263700"
+    },
+    {
+      "id": 4,
+      "image": "https://lemonbin.com/wp-content/uploads/2020/06/light-jet-june112020.jpg",
+      "model": "Light Jets",
+      "price": "$267400"
+    },
+    {
+      "id": 5,
+      "image": "https://lemonbin.com/wp-content/uploads/2020/06/mid-size-jet-june112020.jpg",
+      "model": "Mid-Size Jets",
+      "price": "$258400"
+    }
+  ]
+}

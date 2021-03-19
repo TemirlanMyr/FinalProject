@@ -1,0 +1,34 @@
+{
+  "Bikes": [
+    {
+      "id": 1,
+      "image": "https://www.switchbacktravel.com/sites/default/files/images/articles/Top%20Mountain%20Biking%20Brands%20%28header%29.jpg",
+      "model": "Mountain Bike",
+      "price": "$27,22"
+    },
+    {
+      "id": 2,
+      "image": "https://www.rei.com/dam/content_team_080317_69661_hybrid_bikes_hero_lg.jpg",
+      "model": "Hybrid Bike",
+      "price": "$26,47"
+    },
+    {
+      "id": 3,
+      "image": "https://inteng-storage.s3.amazonaws.com/images/sizes/ebikes-main1_resize_md.jpg",
+      "model": "Electric bike",
+      "price": "26,37"
+    },
+    {
+      "id": 4,
+      "image": "https://i.pinimg.com/originals/3a/3a/df/3a3adf080cf14b07926b0af9e42623c8.jpg",
+      "model": "BMX bike",
+      "price": "$26,74"
+    },
+    {
+      "id": 5,
+      "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/argonaut-endurance-road-0028-edc-1552501027.jpg?crop=0.692xw:0.780xh;0.151xw,0.198xh&resize=640:*",
+      "model": "Road bike",
+      "price": "$25,84"
+    }
+  ]
+}
